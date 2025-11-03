@@ -1,4 +1,4 @@
-### I am jk (no joke)
+### I am jk 
 
 I'm working on production at [Mysten Labs](https://mystenlabs.com/). I previously worked on privacy and AR/VR at [Meta](https://about.meta.com/) and [ASU](https://meteor.ame.asu.edu/).
 
